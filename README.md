@@ -1,2 +1,2 @@
 # MiniWeatherTracker
-Miniature Arduino Based Temperature and Humidity Tracker
+Miniature Arduino based temperature and humidity tracker.
